@@ -1,0 +1,171 @@
+{
+  "version": "1.2.0",
+  "lastUpdate": "2025-08-06T20:30:00Z",
+  "config": {
+    "productos": {
+      "cocktails": [
+        {
+          "id": "coctel-11000",
+          "name": "Coctel pequeño",
+          "price": 11000,
+          "description": "Coctel pequeño",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "coctel-15000",
+          "name": "Coctel mediano",
+          "price": 15000,
+          "description": "Coctel mediano",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "coctel-22000",
+          "name": "Coctel grande",
+          "price": 22000,
+          "description": "Coctel grande",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "coctel-28000",
+          "name": "Coctel extra grande",
+          "price": 28000,
+          "description": "Coctel extra grande",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "coctel-34000",
+          "name": "Coctel super",
+          "price": 34000,
+          "description": "Coctel super",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "coctel-40000",
+          "name": "Coctel XXL",
+          "price": 40000,
+          "description": "Coctel XXL",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "coctel-48000",
+          "name": "Coctel jumbo",
+          "price": 48000,
+          "description": "Coctel jumbo",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "coctel-60000",
+          "name": "Coctel mega",
+          "price": 60000,
+          "description": "Coctel mega",
+          "categoria": "mariscos",
+          "disponible": true
+        }
+      ],
+      "bandejas": [
+        {
+          "id": "ceviche-30000",
+          "name": "Ceviche",
+          "price": 30000,
+          "description": "Ceviche",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "bandeja-1p-32000",
+          "name": "Bandeja 1 persona",
+          "price": 32000,
+          "description": "Bandeja para 1 persona",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "bandeja-1p-42000",
+          "name": "Bandeja 1 persona",
+          "price": 42000,
+          "description": "Bandeja para 1 persona",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "bandeja-2p-47000",
+          "name": "Bandeja 2 personas",
+          "price": 47000,
+          "description": "Bandeja para 2 personas",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "bandeja-2p-52000",
+          "name": "Bandeja 2 personas",
+          "price": 52000,
+          "description": "Bandeja para 2 personas",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "bandeja-4p-95000",
+          "name": "Bandeja 4 personas",
+          "price": 95000,
+          "description": "Bandeja para 4 personas",
+          "categoria": "mariscos",
+          "disponible": true
+        },
+        {
+          "id": "bandeja-4p-105000",
+          "name": "Bandeja 4 personas",
+          "price": 105000,
+          "description": "Bandeja para 4 personas",
+          "categoria": "mariscos",
+          "disponible": true
+        }
+      ]
+    },
+    "ingredientes": {
+      "principales": ["Camarón", "Caracol", "Pulpo"],
+      "adicionales": [
+        {
+          "id": "adicionar-picante",
+          "name": "Adicionar picante",
+          "price": 0,
+          "type": "gratuito"
+        },
+        {
+          "id": "adicion-patacon",
+          "name": "Adición de patacón",
+          "price": 8000,
+          "type": "pago"
+        }
+      ],
+      "opcionEspecial": "Todos"
+    },
+    "horarios": {
+      "enabled": true,
+      "inicio": { "hora": 17, "minutos": 0 },
+      "fin": { "hora": 22, "minutos": 30 },
+      "mensaje": "Solo puedes realizar pedidos entre las 5:00 PM y las 10:30 PM (hora Colombia). Por favor intenta en ese horario."
+    },
+    "configuracion": {
+      "whatsapp": "573016751812",
+      "nequi": {
+        "numero": "3016751812",
+        "titular": "Confirmar titular"
+      },
+      "domicilio": {
+        "incluido": false,
+        "mensaje": "Los precios no incluyen el domicilio"
+      },
+      "disclaimers": {
+        "imagenes": "Imágenes ilustrativas. Los productos pueden variar.",
+        "precios": "Precios no incluyen el domicilio"
+      }
+    }
+  }
+}

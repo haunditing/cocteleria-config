@@ -160,7 +160,7 @@
       },
       "domicilio": {
         "incluido": false,
-        "mensaje": "Los precios no incluyen el domicilio"
+        "mensaje": "Los precios no incluyen el valor del domicilio"
       },
       "disclaimers": {
         "imagenes": "Imágenes ilustrativas. Los productos pueden variar.",

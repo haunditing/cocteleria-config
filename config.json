@@ -9,7 +9,7 @@
           "name": "Coctel pequeño",
           "price": 11000,
           "description": "Coctel pequeño",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         },
         {
@@ -17,7 +17,7 @@
           "name": "Coctel mediano",
           "price": 15000,
           "description": "Coctel mediano",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         },
         {
@@ -169,3 +169,4 @@
     }
   }
 }
+

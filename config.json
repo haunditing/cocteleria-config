@@ -25,7 +25,7 @@
           "name": "Coctel grande",
           "price": 22000,
           "description": "Coctel grande",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         },
         {
@@ -33,7 +33,7 @@
           "name": "Coctel extra grande",
           "price": 28000,
           "description": "Coctel extra grande",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         },
         {
@@ -41,7 +41,7 @@
           "name": "Coctel super",
           "price": 34000,
           "description": "Coctel super",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         },
         {
@@ -49,7 +49,7 @@
           "name": "Coctel XXL",
           "price": 40000,
           "description": "Coctel XXL",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         },
         {
@@ -57,7 +57,7 @@
           "name": "Coctel jumbo",
           "price": 48000,
           "description": "Coctel jumbo",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         },
         {
@@ -65,7 +65,7 @@
           "name": "Coctel mega",
           "price": 60000,
           "description": "Coctel mega",
-          "categoria": "mariscos",
+          "categoria": "cocteles",
           "disponible": true
         }
       ],
@@ -75,7 +75,7 @@
           "name": "Ceviche",
           "price": 30000,
           "description": "Ceviche",
-          "categoria": "mariscos",
+          "categoria": "trays",
           "disponible": true
         },
         {
@@ -83,7 +83,7 @@
           "name": "Bandeja 1 persona",
           "price": 32000,
           "description": "Bandeja para 1 persona",
-          "categoria": "mariscos",
+          "categoria": "trays",
           "disponible": true
         },
         {
@@ -91,7 +91,7 @@
           "name": "Bandeja 1 persona",
           "price": 42000,
           "description": "Bandeja para 1 persona",
-          "categoria": "mariscos",
+          "categoria": "trays",
           "disponible": true
         },
         {
@@ -99,7 +99,7 @@
           "name": "Bandeja 2 personas",
           "price": 47000,
           "description": "Bandeja para 2 personas",
-          "categoria": "mariscos",
+          "categoria": "trays",
           "disponible": true
         },
         {
@@ -107,7 +107,7 @@
           "name": "Bandeja 2 personas",
           "price": 52000,
           "description": "Bandeja para 2 personas",
-          "categoria": "mariscos",
+          "categoria": "trays",
           "disponible": true
         },
         {
@@ -115,7 +115,7 @@
           "name": "Bandeja 4 personas",
           "price": 95000,
           "description": "Bandeja para 4 personas",
-          "categoria": "mariscos",
+          "categoria": "trays",
           "disponible": true
         },
         {
@@ -123,7 +123,7 @@
           "name": "Bandeja 4 personas",
           "price": 105000,
           "description": "Bandeja para 4 personas",
-          "categoria": "mariscos",
+          "categoria": "trays",
           "disponible": true
         }
       ]

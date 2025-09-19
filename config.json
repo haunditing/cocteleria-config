@@ -129,7 +129,7 @@
       ]
     },
     "ingredientes": {
-      "principales": [Camarón, Caracol, Pulpo],
+      "principales": ["Camarón", "Caracol", "Pulpo"],
       "adicionales": [
         {
           "id": "adicionar-picante",
@@ -169,5 +169,6 @@
     }
   }
 }
+
 
 

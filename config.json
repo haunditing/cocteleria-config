@@ -140,7 +140,7 @@
         {
           "id": "adicion-patacon",
           "name": "Adición de patacón",
-          "price": 8000,
+          "price": 9000,
           "type": "pago"
         }
       ],
@@ -169,6 +169,7 @@
     }
   }
 }
+
 
 
 

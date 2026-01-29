@@ -71,7 +71,7 @@
       ],
       "bandejas": [
         {
-          "id": "ceviche-32000",
+          "id": "ceviche-30000",
           "name": "Ceviche",
           "price": 32000,
           "description": "Ceviche",
@@ -79,7 +79,7 @@
           "disponible": true
         },
         {
-          "id": "bandeja-1p-34000",
+          "id": "bandeja-1p-32000",
           "name": "Bandeja 1 persona",
           "price": 34000,
           "description": "Bandeja para 1 persona",
@@ -87,7 +87,7 @@
           "disponible": true
         },
         {
-          "id": "bandeja-1p-44000",
+          "id": "bandeja-1p-42000",
           "name": "Bandeja 1 persona",
           "price": 44000,
           "description": "Bandeja para 1 persona",
@@ -95,7 +95,7 @@
           "disponible": true
         },
         {
-          "id": "bandeja-2p-49000",
+          "id": "bandeja-2p-47000",
           "name": "Bandeja 2 personas",
           "price": 49000,
           "description": "Bandeja para 2 personas",
@@ -103,7 +103,7 @@
           "disponible": true
         },
         {
-          "id": "bandeja-2p-54000",
+          "id": "bandeja-2p-52000",
           "name": "Bandeja 2 personas",
           "price": 54000,
           "description": "Bandeja para 2 personas",
@@ -111,7 +111,7 @@
           "disponible": true
         },
         {
-          "id": "bandeja-4p-100000",
+          "id": "bandeja-4p-95000",
           "name": "Bandeja 4 personas",
           "price": 100000,
           "description": "Bandeja para 4 personas",
@@ -119,7 +119,7 @@
           "disponible": true
         },
         {
-          "id": "bandeja-4p-110000",
+          "id": "bandeja-4p-105000",
           "name": "Bandeja 4 personas",
           "price": 110000,
           "description": "Bandeja para 4 personas",
@@ -169,6 +169,7 @@
     }
   }
 }
+
 
 
 

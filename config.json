@@ -7,7 +7,7 @@
         {
           "id": "coctel-11000",
           "name": "Coctel pequeño",
-          "price": 11000,
+          "price": 12000,
           "description": "Coctel pequeño",
           "categoria": "cocteles",
           "disponible": true
@@ -169,6 +169,7 @@
     }
   }
 }
+
 
 
 

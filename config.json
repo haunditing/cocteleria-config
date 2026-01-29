@@ -5,7 +5,7 @@
     "productos": {
       "cocktails": [
         {
-          "id": "coctel-11000",
+          "id": "coctel-12000",
           "name": "Coctel pequeño",
           "price": 12000,
           "description": "Coctel pequeño",
@@ -13,57 +13,57 @@
           "disponible": true
         },
         {
-          "id": "coctel-15000",
+          "id": "coctel-17000",
           "name": "Coctel mediano",
-          "price": 15000,
+          "price": 17000,
           "description": "Coctel mediano",
           "categoria": "cocteles",
           "disponible": true
         },
         {
-          "id": "coctel-22000",
+          "id": "coctel-24000",
           "name": "Coctel grande",
-          "price": 22000,
+          "price": 24000,
           "description": "Coctel grande",
           "categoria": "cocteles",
           "disponible": true
         },
         {
-          "id": "coctel-28000",
+          "id": "coctel-30000",
           "name": "Coctel extra grande",
-          "price": 28000,
+          "price": 30000,
           "description": "Coctel extra grande",
           "categoria": "cocteles",
           "disponible": true
         },
         {
-          "id": "coctel-34000",
+          "id": "coctel-36000",
           "name": "Coctel super",
-          "price": 34000,
+          "price": 36000,
           "description": "Coctel super",
           "categoria": "cocteles",
           "disponible": true
         },
         {
-          "id": "coctel-40000",
+          "id": "coctel-42000",
           "name": "Coctel XXL",
-          "price": 40000,
+          "price": 42000,
           "description": "Coctel XXL",
           "categoria": "cocteles",
           "disponible": true
         },
         {
-          "id": "coctel-48000",
+          "id": "coctel-50000",
           "name": "Coctel jumbo",
-          "price": 48000,
+          "price": 50000,
           "description": "Coctel jumbo",
           "categoria": "cocteles",
           "disponible": true
         },
         {
-          "id": "coctel-60000",
+          "id": "coctel-65000",
           "name": "Coctel mega",
-          "price": 60000,
+          "price": 65000,
           "description": "Coctel mega",
           "categoria": "cocteles",
           "disponible": true
@@ -71,57 +71,57 @@
       ],
       "bandejas": [
         {
-          "id": "ceviche-30000",
+          "id": "ceviche-32000",
           "name": "Ceviche",
-          "price": 30000,
+          "price": 32000,
           "description": "Ceviche",
           "categoria": "trays",
           "disponible": true
         },
         {
-          "id": "bandeja-1p-32000",
+          "id": "bandeja-1p-34000",
           "name": "Bandeja 1 persona",
-          "price": 32000,
+          "price": 34000,
           "description": "Bandeja para 1 persona",
           "categoria": "trays",
           "disponible": true
         },
         {
-          "id": "bandeja-1p-42000",
+          "id": "bandeja-1p-44000",
           "name": "Bandeja 1 persona",
-          "price": 42000,
+          "price": 44000,
           "description": "Bandeja para 1 persona",
           "categoria": "trays",
           "disponible": true
         },
         {
-          "id": "bandeja-2p-47000",
+          "id": "bandeja-2p-49000",
           "name": "Bandeja 2 personas",
-          "price": 47000,
+          "price": 49000,
           "description": "Bandeja para 2 personas",
           "categoria": "trays",
           "disponible": true
         },
         {
-          "id": "bandeja-2p-52000",
+          "id": "bandeja-2p-54000",
           "name": "Bandeja 2 personas",
-          "price": 52000,
+          "price": 54000,
           "description": "Bandeja para 2 personas",
           "categoria": "trays",
           "disponible": true
         },
         {
-          "id": "bandeja-4p-95000",
+          "id": "bandeja-4p-100000",
           "name": "Bandeja 4 personas",
-          "price": 95000,
+          "price": 100000,
           "description": "Bandeja para 4 personas",
           "categoria": "trays",
           "disponible": true
         },
         {
-          "id": "bandeja-4p-105000",
+          "id": "bandeja-4p-110000",
           "name": "Bandeja 4 personas",
-          "price": 105000,
+          "price": 110000,
           "description": "Bandeja para 4 personas",
           "categoria": "trays",
           "disponible": true
@@ -169,6 +169,7 @@
     }
   }
 }
+
 
 
 
